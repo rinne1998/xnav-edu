@@ -1,0 +1,30 @@
+{
+    "updatetime":"2022-09-12",
+    "categories":[{
+        "category":"常用",
+        "icon":"/imgs/tips.svg",
+        "links":[{
+            "name":"百度",
+            "icon":"/imgs/baidu.svg",
+            "link":"https://www.baidu.com",
+            "intro":"百度一下，你就知道",
+            "tags":["直接查看","登录下载","收费下载"]
+        },{
+            "name":"百度2",
+            "icon":"/imgs/baidu.svg",
+            "link":"https://www.baidu.com",
+            "intro":"百度一下，你就知道",
+            "tags":["直接查看","登录下载"]
+        }]
+    },{
+        "category":"教案",
+        "icon":"/imgs/tips.svg",
+        "links":[{
+            "name":"百度",
+            "icon":"/imgs/baidu.svg",
+            "link":"https://www.baidu.com",
+            "intro":"百度一下，你就知道",
+            "tags":["直接查看","登录下载"]
+        }]
+    }]
+}
