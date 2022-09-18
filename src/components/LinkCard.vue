@@ -55,7 +55,7 @@ export default {
 .link-card > a > img {
   width: 23px;
   position: absolute;
-  right: 10px;
+  right: 8px;
   top: 38%;
 }
 a {
@@ -63,7 +63,8 @@ a {
   color: #000;
 }
 .title img {
-  width: 35px;
+  width: 30px;
+  border-radius: 50%;
 }
 .title {
   margin-top: 15px;
@@ -77,7 +78,7 @@ a {
 }
 .intro {
   font-weight: 500;
-  padding-top: 8px;
+  padding-top: 11px;
   color: rgb(114, 112, 112);
   padding-left: 20px;
   font-size: 15px;
@@ -98,7 +99,7 @@ a {
   padding: 4px;
   font-size: 13px;
   border-radius: 5px;
-  background: green;
+  background: #3aa775;
   color: #fff;
   margin-left: 5px;
 }

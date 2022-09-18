@@ -1,200 +1,544 @@
 {
-    "updatetime":"2022-09-12",
-    "categories":[{
-        "category":"常用",
-        "icon":"/imgs/star.svg",
-        "links":[{
-            "name":"百度",
-            "icon":"/imgs/baidu.svg",
-            "link":"https://www.baidu.com",
-            "intro":"百度一下，你就知道",
-            "tags":["啥都能搜"]
-        },{
-            "name":"哔哩哔哩",
-            "icon":"/imgs/baidu.svg",
-            "link":"https://www.bilibili.com/",
-            "intro":"有不少课程观摩学习",
-            "tags":["直接查看","观课"]
-        },{
-            "name":"智慧中小学",
-            "icon":"/imgs/baidu.svg",
-            "link":"https://www.zxx.edu.cn/",
-            "intro":"国家智慧教育公共平台",
-            "tags":["资源全面","免费使用"]
-        },{
-            "name":"贝壳网",
-            "icon":"/imgs/baidu.svg",
-            "link":"https://www.bakclass.com/",
-            "intro":"教案、课件资源",
-            "tags":["需要登录","积分下载"]
-        },{
-            "name":"教育云",
-            "icon":"/imgs/baidu.svg",
-            "link":"https://www.eduyun.cn/",
-            "intro":"国家教育资源公共平台",
-            "tags":["资源丰富","登录下载","可能过时"]
-        },{
-            "name":"好学电子课本",
-            "icon":"/imgs/baidu.svg",
-            "link":"http://www.5haoxue.net/",
-            "intro":"好学电子课本网",
-            "tags":["直接观看","收录较全"]
-        }]
-    },{
-        "category":"教案/课件",
-        "icon":"/imgs/教学评价.svg",
-        "links":[{
-            "name":"优翼教学资源",
-            "icon":"/imgs/baidu.svg",
-            "link":"http://www.youyi100.com/",
-            "intro":"学练优配套课件、教案",
-            "tags":["免费下载","扫码登录"]
-        },{
-            "name":"吾课网",
-            "icon":"/imgs/baidu.svg",
-            "link":"https://www.wookey.cn/kjfl",
-            "intro":"状元系列课件、教案",
-            "tags":["免费下载","扫码登录"]
-        },{
-            "name":"七彩课堂",
-            "icon":"/imgs/baidu.svg",
-            "link":"https://www.timebook.cc/new/res.html",
-            "intro":"七彩课堂配套课件、教案",
-            "tags":["直接下载","同名公众号"]
-        },{
-            "name":"贝壳网",
-            "icon":"/imgs/baidu.svg",
-            "link":"https://www.bakclass.com/",
-            "intro":"教案、课件资源",
-            "tags":["需要登录","积分下载"]
-        },{
-            "name":"教育云",
-            "icon":"/imgs/baidu.svg",
-            "link":"https://www.eduyun.cn/",
-            "intro":"国家教育资源公共平台",
-            "tags":["资源丰富","登录下载","可能过时"]
-        },{
-            "name":"莲山课件",
-            "icon":"/imgs/baidu.svg",
-            "link":"https://www.5ykj.com/",
-            "intro":"教案、课件",
-            "tags":["部分预览","付费下载"]
-        },{
-            "name":"21世纪教育",
-            "icon":"/imgs/baidu.svg",
-            "link":"https://www.21cnjy.com/",
-            "intro":"教案、课件、题库等",
-            "tags":["付费下载","同名小程序手机备课"]
-        },{
-            "name":"学科网",
-            "icon":"/imgs/baidu.svg",
-            "link":"https://www.zxxk.com/",
-            "intro":"有丰富的题库",
-            "tags":["部分预览","付费下载"]
-        },{
-            "name":"正确云",
-            "icon":"/imgs/baidu.svg",
-            "link":"https://www.zqy.com/",
-            "intro":"课件",
-            "tags":["部分预览","付费下载"]
-        },{
-            "name":"菁优网",
-            "icon":"/imgs/baidu.svg",
-            "link":"http://www.jyeoo.com/",
-            "intro":"课件、试题",
-            "tags":["登录查看","付费下载"]
-        },{
-            "name":"51教习网",
-            "icon":"/imgs/baidu.svg",
-            "link":"https://www.51jiaoxi.com/",
-            "intro":"教案、课件等",
-            "tags":["部分预览","付费下载"]
-        },{
-            "name":"老百晓在线",
-            "icon":"/imgs/baidu.svg",
-            "link":"http://www.lbx777.com/default.html",
-            "intro":"语文教学资源",
-            "tags":["语文","在线观看","无需登录"]
-        },{
-            "name":"",
-            "icon":"/imgs/baidu.svg",
-            "link":"",
-            "intro":"",
-            "tags":["直接查看","登录下载"]
-        },{
-            "name":"",
-            "icon":"/imgs/baidu.svg",
-            "link":"",
-            "intro":"",
-            "tags":["直接查看","登录下载"]
-        }]
-    },{
-        "category":"课程观摩",
-        "icon":"/imgs/24_课程.svg",
-        "links":[{
-            "name":"百度",
-            "icon":"/imgs/baidu.svg",
-            "link":"https://www.baidu.com",
-            "intro":"百度一下，你就知道",
-            "tags":["直接查看","登录下载"]
-        }]
-    },{
-        "category":"PPT模板",
-        "icon":"/imgs/ppt.svg",
-        "links":[{
-            "name":"百度",
-            "icon":"/imgs/baidu.svg",
-            "link":"https://www.baidu.com",
-            "intro":"百度一下，你就知道",
-            "tags":["直接查看","登录下载"]
-        }]
-    },{
-        "category":"多媒体",
-        "icon":"/imgs/车巴巴-多媒体配置.svg",
-        "links":[{
-            "name":"百度",
-            "icon":"/imgs/baidu.svg",
-            "link":"https://www.baidu.com",
-            "intro":"百度一下，你就知道",
-            "tags":["直接查看","登录下载"]
-        }]
-    },{
-        "category":"电子教材",
-        "icon":"/imgs/教材教辅.svg",
-        "links":[{
-            "name":"好学电子课本",
-            "icon":"/imgs/baidu.svg",
-            "link":"http://www.5haoxue.net/",
-            "intro":"好学电子课本网",
-            "tags":["直接观看","收录较全"]
-        },{
-            "name":"电子课本网",
-            "icon":"/imgs/baidu.svg",
-            "link":"http://www.dzkbw.com/",
-            "intro":"电子课本网",
-            "tags":["需关注公众号"]
-        },{
-            "name":"人教版数学教材",
-            "icon":"/imgs/baidu.svg",
-            "link":"https://bp.pep.com.cn/xsjc2022/",
-            "intro":"人教版小学数学新教材",
-            "tags":["在线观看"]
-        },{
-            "name":"老百晓在线",
-            "icon":"/imgs/baidu.svg",
-            "link":"http://www.lbx777.com/multimedia/dzjc/dzjc.htm",
-            "intro":"语文电子教材",
-            "tags":["在线观看","无需登录"]
-        }]
-    },{
-        "category":"实用工具",
-        "icon":"/imgs/tools.svg",
-        "links":[{
-            "name":"百度",
-            "icon":"/imgs/baidu.svg",
-            "link":"https://www.baidu.com",
-            "intro":"百度一下，你就知道",
-            "tags":["直接查看","登录下载"]
-        }]
-    }]
+  "updatetime": "2022-09-12",
+  "categories": [
+    {
+      "category": "常用",
+      "icon": "/imgs/star.svg",
+      "links": [
+        {
+          "name": "百度",
+          "icon": "/imgs/baidu.png",
+          "link": "https://www.baidu.com",
+          "intro": "百度一下，你就知道",
+          "tags": ["啥都能搜"]
+        },
+        {
+          "name": "哔哩哔哩",
+          "icon": "/imgs/bilibili.png",
+          "link": "https://www.bilibili.com/",
+          "intro": "有不少课程观摩学习",
+          "tags": ["直接查看", "观课"]
+        },
+        {
+          "name": "智慧中小学",
+          "icon": "/imgs/zxx.ico",
+          "link": "https://www.zxx.edu.cn/",
+          "intro": "国家智慧教育公共平台",
+          "tags": ["资源全面", "免费使用"]
+        },
+        {
+          "name": "贝壳网",
+          "icon": "/imgs/bak.ico",
+          "link": "https://www.bakclass.com/",
+          "intro": "教案、课件资源",
+          "tags": ["需要登录", "积分下载"]
+        },
+        {
+          "name": "一师一优课",
+          "icon": "/imgs/1s1k.ico",
+          "link": "https://1s1k.eduyun.cn/portal/html/1s1k/course/1.html",
+          "intro": "国家教育资源公共平台",
+          "tags": ["资源丰富", "登录下载", "可能过时"]
+        },
+        {
+          "name": "好学电子课本",
+          "icon": "/imgs/5hx.png",
+          "link": "http://www.5haoxue.net/",
+          "intro": "好学电子课本网",
+          "tags": ["直接观看", "收录较全"]
+        }
+      ]
+    },
+    {
+      "category": "教案/课件",
+      "icon": "/imgs/教学评价.svg",
+      "links": [
+        {
+          "name": "优翼教学资源",
+          "icon": "/imgs/youyi100.ico",
+          "link": "http://www.youyi100.com/",
+          "intro": "学练优配套课件、教案",
+          "tags": ["免费下载", "扫码登录"]
+        },
+        {
+          "name": "吾课网",
+          "icon": "/imgs/wuke_logo.png",
+          "link": "https://www.wookey.cn/kjfl",
+          "intro": "状元系列课件、教案",
+          "tags": ["免费下载", "扫码登录"]
+        },
+        {
+          "name": "七彩课堂",
+          "icon": "/imgs/timebook.ico",
+          "link": "https://www.timebook.cc/new/res.html",
+          "intro": "七彩课堂配套课件、教案",
+          "tags": ["直接下载", "同名公众号"]
+        },
+        {
+          "name": "贝壳网",
+          "icon": "/imgs/bak.ico",
+          "link": "https://www.bakclass.com/",
+          "intro": "教案、课件资源",
+          "tags": ["需要登录", "积分下载"]
+        },
+        {
+          "name": "教育云",
+          "icon": "/imgs/1s1k.ico",
+          "link": "https://www.eduyun.cn/",
+          "intro": "国家教育资源公共平台",
+          "tags": ["资源丰富", "登录下载", "可能过时"]
+        },
+        {
+          "name": "莲山课件",
+          "icon": "/imgs/5ykj.ico",
+          "link": "https://www.5ykj.com/",
+          "intro": "教案、课件",
+          "tags": ["部分预览", "付费下载"]
+        },
+        {
+          "name": "21世纪教育",
+          "icon": "/imgs/21.ico",
+          "link": "https://www.21cnjy.com/",
+          "intro": "教案、课件、题库等",
+          "tags": ["付费下载", "同名小程序手机备课"]
+        },
+        {
+          "name": "51教习网",
+          "icon": "/imgs/51jiaoxi.ico",
+          "link": "https://www.51jiaoxi.com/",
+          "intro": "教案、课件等",
+          "tags": ["部分预览", "付费下载"]
+        },
+        {
+          "name": "老百晓在线",
+          "icon": "/imgs/lbx072.gif",
+          "link": "http://www.lbx777.com/default.html",
+          "intro": "语文教学资源",
+          "tags": ["语文", "在线观看", "无需登录"]
+        },
+        {
+          "name": "济南市教育资源",
+          "icon": "/imgs/jn.ico",
+          "link": "https://rrt.jndjg.cn/res/",
+          "intro": "济南市教育资源",
+          "tags": ["直接查看", "登录下载"]
+        },
+        {
+          "name": "皖教云",
+          "icon": "/imgs/jn.ico",
+          "link": "https://www.ahedu.cn/zyzx/#/home",
+          "intro": "安徽线上教学资源",
+          "tags": ["直接查看", "须专用账号下载"]
+        },
+        {
+          "name": "武汉教育云",
+          "icon": "/imgs/jn.ico",
+          "link": "https://res.wuhaneduyun.cn/resourceHome.html",
+          "intro": "武汉教育云资源",
+          "tags": ["直接查看", "须专用账号下载"]
+        },
+        {
+          "name": "湖北教育云",
+          "icon": "/imgs/hb.ico",
+          "link": "https://new.hbeducloud.com/global-market/#/hbjyy",
+          "intro": "湖北教育云资源",
+          "tags": ["直接查看", "须专用账号下载"]
+        },
+        {
+          "name": "合肥教育云",
+          "icon": "/imgs/hf.ico",
+          "link": "http://www.hfjyyun.net.cn/App.Search/index.php?m=Search&c=Index&a=index",
+          "intro": "合肥市教育云",
+          "tags": ["直接查看", "须专用账号下载"]
+        },
+        {
+          "name": "张家口教育云",
+          "icon": "/imgs/jyyzjk.ico",
+          "link": "https://res.jyyzjk.cn/cms-portal/resourceHome.html",
+          "intro": "张家口教育云",
+          "tags": ["直接查看", "须专用账号下载"]
+        },
+        {
+          "name": "百度文库福袋",
+          "icon": "/imgs/baidu.png",
+          "link": "https://wenku.baidu.com/go/2020wuhan#0-0-0-0-1",
+          "intro": "2020年推出",
+          "tags": ["免费下载", "下册"]
+        },
+        {
+          "name": "绿色圃",
+          "icon": "/imgs/02_avatar_middle.jpg",
+          "link": "http://www.lspjy.com/",
+          "intro": "一个论坛",
+          "tags": ["需登录/关注公众号"]
+        },
+        {
+          "name": "小学科学教学网",
+          "icon": "/imgs/WX20200302-212628.png",
+          "link": "http://www.xxkxjx.net/",
+          "intro": "提供科学课程资源",
+          "tags": ["直接下载", "可能过时"]
+        },
+        {
+          "name": "学科网",
+          "icon": "/imgs/zxxk.ico",
+          "link": "https://www.zxxk.com/",
+          "intro": "有丰富的题库",
+          "tags": ["部分预览", "付费下载"]
+        },
+        {
+          "name": "正确云",
+          "icon": "/imgs/zqy.ico",
+          "link": "https://www.zqy.com/",
+          "intro": "课件",
+          "tags": ["部分预览", "付费下载"]
+        },
+        {
+          "name": "菁优网",
+          "icon": "/imgs/jyeoo.ico",
+          "link": "http://www.jyeoo.com/",
+          "intro": "课件、试题",
+          "tags": ["登录查看", "付费下载"]
+        }
+      ]
+    },
+    {
+      "category": "课程观摩 - 狠狠学！",
+      "icon": "/imgs/24_课程.svg",
+      "links": [
+        {
+          "name": "深圳教育云",
+          "icon": "/imgs/szedu.jpg",
+          "link": "http://zy.szedu.cn/",
+          "intro": "深圳教育云",
+          "tags": ["直接查看"]
+        },
+        {
+          "name": "济南市空中课堂",
+          "icon": "/imgs/jn.ico",
+          "link": "https://db.jndjg.cn/course/index.html",
+          "intro": "济南市空中课堂",
+          "tags": ["直接查看", "课件资源下载"]
+        },
+        {
+          "name": "皖教云",
+          "icon": "/imgs/ahedu.ico",
+          "link": "https://cdn.ahedu.cn/course/#/home",
+          "intro": "安徽中小学云课堂",
+          "tags": ["直接查看"]
+        },
+        {
+          "name": "名师同步课堂",
+          "icon": "/imgs/bdschool.ico",
+          "link": "https://cache.bdschool.cn/public/bdschool/index/static/migu/w.html?v=2022050401",
+          "intro": "翻以前的周目",
+          "tags": ["直接查看", "直接下载"]
+        },
+        {
+          "name": "武汉教育云",
+          "icon": "/imgs/jn.ico",
+          "link": "https://sky.wuhaneduyun.cn/sky.html",
+          "intro": "武汉教育云空中课堂",
+          "tags": ["直接查看"]
+        },
+        {
+          "name": "湖北教育云",
+          "icon": "/imgs/hb.ico",
+          "link": "https://www.hbeducloud.com/study/",
+          "intro": "若播放不了换浏览器",
+          "tags": ["直接查看"]
+        },
+        {
+          "name": "榆林教育云",
+          "icon": "/imgs/yulinedu.png",
+          "link": "http://www.yulinedu.net/index_resourceList.htm",
+          "intro": "同步课堂",
+          "tags": ["直接查看"]
+        },
+        {
+          "name": "中国微课",
+          "icon": "/imgs/cnweike.ico",
+          "link": "http://dasai.cnweike.cn/list.html",
+          "intro": "中国微课网",
+          "tags": ["直接查看", "可查看课件"]
+        },
+        {
+          "name": "哔哩哔哩",
+          "link": "https://www.bilibili.com/",
+          "icon": "/imgs/bilibili.png",
+          "intro": "还是有不少教学视频的",
+          "tags": ["直接查看", "登录下载"]
+        },
+        {
+          "name": "腾讯视频",
+          "icon": "/imgs/qqvideo.png",
+          "link": "https://v.qq.com/",
+          "intro": "同上",
+          "tags": ["直接查看", "登录下载"]
+        },
+        {
+          "name": "优酷",
+          "icon": "/imgs/youku.png",
+          "link": "https://www.youku.com/",
+          "intro": "同上",
+          "tags": ["直接查看", "登录下载"]
+        }
+      ]
+    },
+    {
+      "category": "PPT模板",
+      "icon": "/imgs/ppt.svg",
+      "links": [
+        {
+          "name": "PPT宝藏",
+          "icon": "/imgs/pptbz.ico",
+          "link": "http://www.pptbz.com/",
+          "intro": "PPT模板",
+          "tags": ["免费下载", "免登录"]
+        },
+        {
+          "name": "OfficePLUS",
+          "icon": "/imgs/officeplus.ico",
+          "link": "https://www.officeplus.cn/",
+          "intro": "微软官方PPT模板",
+          "tags": ["免费下载", "需扫码"]
+        },
+        {
+          "name": "优品PPT",
+          "icon": "/imgs/ypppt.ico",
+          "link": "https://www.ypppt.com/",
+          "intro": "PPT模板",
+          "tags": ["免费下载", "免登录"]
+        },
+        {
+          "name": "51PPT",
+          "icon": "/imgs/51ppt.png",
+          "link": "https://www.51pptmoban.com/",
+          "intro": "51PPT模板网",
+          "tags": ["免费下载", "免登录"]
+        },
+        {
+          "name": "第一PPT",
+          "icon": "/imgs/1ppt.png",
+          "link": "https://www.1ppt.com/",
+          "intro": "第一PPT模板网",
+          "tags": ["免费下载", "免登录"]
+        },
+        {
+          "name": "扑奔",
+          "icon": "/imgs/pooban.ico",
+          "link": "https://www.pooban.com/",
+          "intro": "质量还不错",
+          "tags": ["免费下载", "需注册"]
+        },
+        {
+          "name": "LFPPT",
+          "icon": "/imgs/lfppt.ico",
+          "link": "http://www.lfppt.com/",
+          "intro": "LFPPT模板网",
+          "tags": ["免费下载", "需注册"]
+        },
+        {
+          "name": "PPT之家",
+          "icon": "/imgs/52ppt.ico",
+          "link": "https://www.52ppt.com/",
+          "intro": "质量也不错",
+          "tags": ["免费下载", "需关注公众号"]
+        },
+        {
+          "name": "101教育PPT",
+          "icon": "/imgs/101.ico",
+          "link": "https://ppt.101.com/",
+          "intro": "课件制作工具",
+          "tags": ["免费使用", "资源较多"]
+        },
+        {
+          "name": "稻壳网",
+          "icon": "/imgs/docer.ico",
+          "link": "https://www.docer.com/",
+          "intro": "只能说一分钱一份货",
+          "tags": ["付费下载", "质量高"]
+        },
+        {
+          "name": "字体天下",
+          "icon": "/imgs/fonts.ico",
+          "link": "https://www.fonts.net.cn/",
+          "intro": "下载字体",
+          "tags": ["下载免费","免登录"]
+        },
+        {
+          "name": "字由",
+          "icon": "/imgs/hellofont.ico",
+          "link": "https://www.hellofont.cn/",
+          "intro": "专业的字体工具",
+          "tags": ["字体齐全","仅本地使用"]
+        }
+      ]
+    },
+    {
+      "category": "多媒体",
+      "icon": "/imgs/车巴巴-多媒体配置.svg",
+      "links": [
+        {
+          "name": "哔哩哔哩",
+          "link": "https://www.bilibili.com/",
+          "icon": "/imgs/bilibili.png",
+          "intro": "国内知名的视频弹幕网站",
+          "tags": ["直接查看", "客户端下载"]
+        },
+        {
+          "name": "腾讯视频",
+          "icon": "/imgs/qqvideo.png",
+          "link": "https://v.qq.com/",
+          "intro": "还是有不少教学视频的",
+          "tags": ["直接查看", "客户端下载"]
+        },
+        {
+          "name": "优酷",
+          "icon": "/imgs/youku.png",
+          "link": "https://www.youku.com/",
+          "intro": "同上",
+          "tags": ["直接查看", "客户端下载"]
+        },
+        {
+          "name": "网易云音乐",
+          "icon": "/imgs/wyyyy~2.png",
+          "link": "https://music.163.com/",
+          "intro": "找找音乐",
+          "tags": ["在线使用"]
+        },
+        {
+          "name": "5sing",
+          "icon": "/imgs/5sing_icon72.png",
+          "link": "http://5sing.kugou.com/index.html",
+          "intro": "找伴奏",
+          "tags": ["曲库全", "登录下载"]
+        },
+        {
+          "name": "音乐解锁",
+          "icon": "/imgs/music.png",
+          "link": "https://demo.unlock-music.dev/",
+          "intro": "解密VIP格式文件",
+          "tags": ["无需下载", "免费工具"]
+        },
+        {
+          "name": "花瓣网",
+          "icon": "/imgs/huaban.png",
+          "link": "https://huaban.com/",
+          "intro": "找图片素材",
+          "tags": ["免费", "按需登录"]
+        },
+        {
+          "name": "稿定设计",
+          "icon": "/imgs/gaoding.ico",
+          "link": "https://www.gaoding.com/",
+          "intro": "在线做图",
+          "tags": ["收费", "模板多"]
+        },
+        {
+          "name": "图怪兽",
+          "icon": "/imgs/818ps.png",
+          "link": "https://818ps.com/",
+          "intro": "在线做图",
+          "tags": ["收费", "模板多"]
+        },
+        {
+          "name": "即时设计",
+          "icon": "/imgs/js.png",
+          "link": "https://js.design/",
+          "intro": "在线做图",
+          "tags": ["免费", "功能齐全", "无模板"]
+        }
+      ]
+    },
+    {
+      "category": "电子教材",
+      "icon": "/imgs/教材教辅.svg",
+      "links": [
+        {
+          "name": "好学电子课本",
+          "icon": "/imgs/5hx.png",
+          "link": "http://www.5haoxue.net/",
+          "intro": "好学电子课本网",
+          "tags": ["直接观看", "收录较全"]
+        },
+        {
+          "name": "电子课本网",
+          "icon": "/imgs/dzkbw.ico",
+          "link": "http://www.dzkbw.com/",
+          "intro": "电子课本网",
+          "tags": ["需关注公众号"]
+        },
+        {
+          "name": "人教版数学教材",
+          "icon": "/imgs/pep.ico",
+          "link": "https://bp.pep.com.cn/xsjc2022/",
+          "intro": "人教版小学数学新教材",
+          "tags": ["在线观看"]
+        },
+        {
+          "name": "深圳教育云",
+          "icon": "/imgs/szedu.jpg",
+          "link": "https://zy.szedu.cn/preview/onlinePreview?url=aHR0cDovLzEyNy4wLjAuMS9zeWdsL2R6amMvMjAyMjAzL1AwMjAyMjA5MDQzOTA5MTIyNTkxMTMueGxzeA==",
+          "intro": "部分电子教材，往下拉",
+          "tags": ["可下载", "无需登录"]
+        },
+        {
+          "name": "智慧中小学",
+          "icon": "/imgs/zxx.ico",
+          "link": "https://xue-test.ykt.eduyun.cn/tchMaterial",
+          "intro": "电子教材在线预览",
+          "tags": ["可下载", "无需登录"]
+        },
+        {
+          "name": "老百晓在线",
+          "icon": "/imgs/lbx072.gif",
+          "link": "http://www.lbx777.com/multimedia/dzjc/dzjc.htm",
+          "intro": "语文电子教材",
+          "tags": ["在线观看", "无需登录"]
+        }
+      ]
+    },
+    {
+      "category": "实用工具",
+      "icon": "/imgs/tools.svg",
+      "links": [
+        {
+          "name": "格式工厂",
+          "icon": "/imgs/ff.jpg",
+          "link": "http://www.pcgeshi.com/index.html",
+          "intro": "音视频格式转换、压缩",
+          "tags": ["免费使用"]
+        },
+        {
+          "name": "万彩办公大师",
+          "icon": "/imgs/wofficebox.ico",
+          "link": "http://www.wofficebox.com/",
+          "intro": "文档处理工具集",
+          "tags": ["免费使用", "需扫码"]
+        },
+        {
+          "name": "飞书妙记",
+          "icon": "/imgs/lark.png",
+          "link": "https://www.feishu.cn/product/minutes",
+          "intro": "录音、视频转写为文字",
+          "tags": ["免费使用", "需注册"]
+        },
+        {
+          "name": "希沃白板",
+          "icon": "/imgs/seewo.ico",
+          "link": "https://easinote.seewo.com/",
+          "intro": "互动教学工具",
+          "tags": ["免费使用", "需注册"]
+        },
+        {
+          "name": "万词王",
+          "icon": "/imgs/wws.png",
+          "link": "https://wantwords.net/",
+          "intro": "找找近似词",
+          "tags": ["免费使用"]
+        }
+      ]
+    }
+  ]
 }
