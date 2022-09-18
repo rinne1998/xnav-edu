@@ -1,8 +1,8 @@
 <template>
   <div class="link-card hvr-grow">
-    <a href="https://www.baidu.com/" target="_blank">
+    <a :href="linkdata.link" target="_blank">
       <div class="title">
-        <img src="/logo.png" /> <span>{{ linkdata.name }}</span>
+        <img :src="linkdata.icon" /> <span>{{ linkdata.name }}</span>
       </div>
       <div class="intro">
         <span>{{ linkdata.intro }}</span>
@@ -91,7 +91,7 @@ a {
   flex-direction: row;
   flex-wrap: nowrap;
   justify-content: flex-start;
-  margin-left: -5px;
+  margin-left: -2px;
 }
 .tags > span {
   font-weight: 500;

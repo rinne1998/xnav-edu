@@ -4,6 +4,7 @@
     <div class="groups" v-for="item in categories" :key="item.name">
       <LinkGroup :Linksdata="item"/>
     </div>
+    <FootBar />
   </div>
 </template>
 
@@ -11,9 +12,10 @@
 import axios from "axios";
 import LinkGroup from "./LinkGroup.vue";
 import SearchBox from "./SearchBox.vue"
+import FootBar from "./Foot.vue";
 export default {
   name: "LinkList",
-  components: { LinkGroup,SearchBox },
+  components: { LinkGroup,SearchBox ,FootBar},
   data() {
     return {
         categories:""
@@ -42,7 +44,7 @@ export default {
   text-align: left;
   font-size: 14px;
   color: #000;
-  padding-bottom: 20px;
+  padding-bottom: 40px;
 }
 .groups {
   margin: 0 auto;

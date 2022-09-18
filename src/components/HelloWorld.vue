@@ -4,7 +4,7 @@
     <div class="TopBar">
       <TimeCard class="hvr-grow" />
       <div id="he-plugin-standard"></div>
-      <TipsCard class="hvr-grow"/>
+      <TipsCard class="hvr-grow" />
     </div>
     <LinkList class="LinkList" />
   </div>
@@ -17,7 +17,7 @@ import TipsCard from "./TipsCard.vue";
 import LinkList from "./LinkList.vue";
 export default {
   name: "HelloWorld",
-  components: { SiteTitle, TimeCard, TipsCard, LinkList },
+  components: { SiteTitle, TimeCard, TipsCard, LinkList},
   props: {
     msg: String,
   },
@@ -57,7 +57,6 @@ export default {
   justify-content: center;
   align-items: center;
 }
-
 
 .TopBar {
   display: flex;

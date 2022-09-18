@@ -1,6 +1,6 @@
 <template>
   <div class="LinkGroup">
-    <div class="t"><img src="/imgs/tips.svg" /><span> 常用</span></div>
+    <div class="t"><img :src="Linksdata.icon" /><span> {{Linksdata.category}}</span></div>
     <div class="links">
       <div v-for="item in Linksdata.links" :key="item.name"><LinkCard :linkdata="item" /></div>
       <i /> <i /> <i /> <i /> <i /> <i />

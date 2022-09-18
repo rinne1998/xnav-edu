@@ -7,7 +7,7 @@
       -moz-user-select: none;
       -khtml-user-select: none;
       user-select: none;
-      color:rgba(67, 207, 124, 1);
+      color:#49f4bd;
     "
     class="SiteTitle"
   >
